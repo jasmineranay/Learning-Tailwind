@@ -101,9 +101,9 @@ My tailwindcss learning journey
 
 ## Questions
 Questions? Concerns?  Contact Me Below:
-- Github Username: brianalegre
-- Github Link: https://github.com/brianalegre 
-- Email: brialegre@yahoo.com
+- Github Username: jasmineranay
+- Github Link: https://github.com/jasmineranay
+- Email: jasmineranay22@gmail.com
 
 ## License
 - Copyright 2022 Jasmine Tsao
