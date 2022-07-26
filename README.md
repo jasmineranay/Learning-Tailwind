@@ -108,5 +108,5 @@ Questions? Concerns?  Contact Me Below:
 - Email: brialegre@yahoo.com
 
 ## License
-- Copyright 2022 Brian Alegre
+- Copyright 2022 Jasmine Tsao
 - Licensed under the: [MIT License](https://opensource.org/licenses/MIT) 
